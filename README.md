@@ -1,4 +1,4 @@
-# 🎧 Projet ELAN – Transcription et analyse de la parole (2024)
+# 🎧 Projet ELAN – Transcription et analyse de la parole
 
 **Outils :** ELAN, Praat  
 **Objectif :** Étudier les différences phonétiques et prosodiques entre deux locuteurs.
